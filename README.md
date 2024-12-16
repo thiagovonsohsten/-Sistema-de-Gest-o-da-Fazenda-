@@ -1,7 +1,3 @@
-### README para o Projeto **APMOD02_Fazenda**
-
----
-
 # 🐄 Sistema de Gestão da Fazenda 🌾
 
 Bem-vindo ao **Sistema de Gestão da Fazenda**, um projeto desenvolvido para gerenciar atividades em uma fazenda, incluindo o cadastro de animais, funcionários e manejos. Este sistema utiliza **Python**, **MySQL**, e é totalmente containerizado com **Docker Compose**.
